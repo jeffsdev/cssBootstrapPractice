@@ -1,0 +1,17 @@
+
+
+
+.image {
+  max-width: 100%;
+}
+
+.article {
+  margin-left: 175px;
+}
+
+/*@media screen and (min-width:768px) {
+  img {
+    width: 75%;
+    height: 75%;
+  }
+}*/
