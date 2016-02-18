@@ -1,0 +1,51 @@
+body {
+  padding-top: 50px;
+}
+
+
+.section2,
+.section4 {
+  background: #e6e6e6;
+}
+
+
+container {
+  width: 90%;
+}
+
+.navbar {
+  margin: 0;
+}
+
+.navbar a {
+  font-family: 'Arimo', sans-serif;
+  font-size: 45px;
+  color: #e60000 !important;
+  font-weight: bold;
+}
+
+.button {
+  background-color: #dfdfdf;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  display: block;
+  margin: 10px auto;
+  width: 150px;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.inline-btns {
+  text-align: center;
+}
+
+.btn-inline {
+  display: inline-block;
+}
+
+h3 {
+  margin-top: 60px;
+  text-align: center;
+}
